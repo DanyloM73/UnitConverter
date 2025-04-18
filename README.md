@@ -1,6 +1,6 @@
 # UnitConverter
 
-### Simple android application for converting some types of units of distance measurement such as meters, centimeters, millimeters and feet
+### Simple Android application for converting some types of units of distance measurement such as meters, centimeters, millimeters and feet
 
 ## Used technologies and tools
 
@@ -11,7 +11,7 @@
 
 *This project was developed as part of The Complete Android 14 & Kotlin Development Masterclass by TutorialsEU*
 
-*Minimum supported Android version is Android 7 (Nougat)*
+*Minimum supported Android version is **Android 7 (Nougat)***
 
 ## Illustrations
 
